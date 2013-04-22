@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player.cs">
+    <Files>
+      <File FileName="Assets\Scripts\VehiclesManager.cs" Line="31" Column="51" />
+      <File FileName="Assets\Scripts\Mechanics.cs" Line="1019" Column="14" />
+      <File FileName="Assets\Scripts\SpeechBubble.cs" Line="40" Column="37" />
+      <File FileName="Assets\iTweenEditor\iTweenConstantSpeed.cs" Line="21" Column="41" />
+      <File FileName="Assets\iTweenEditor\iTweenEvent.cs" Line="562" Column="111" />
+      <File FileName="Assets\Scripts\Player.cs" Line="81" Column="4" />
+      <File FileName="Assets\Scripts\StressItem.cs" Line="65" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
